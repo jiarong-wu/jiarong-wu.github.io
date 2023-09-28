@@ -24,5 +24,5 @@ I am currently a postdoctoral researcher at [Courant Institute of Mathematical S
 
 Previously, I obtained my Ph.D. at Princeton University, advised by [Prof. Luc Deike](https://ldeike.princeton.edu). My thesis focuses on the dynamics of ocean surface waves in the context of air-sea interaction. In general, my research interests include fluid dynamics, waves, turbulence, ocean physics, climate modeling, and computational methods.
 
-I am original from Huzhou, China. In my free time, I enjoy playing volleyball, making food, taking photos, and learning about music theory. 
+I am original from Huzhou, China. In my free time, I enjoy playing volleyball, making food, taking photos, and learning about music theory. My name is pronounced as \`Jar-Wrong\`.
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I defended my Ph.D.! emoji! :smile: Thank you Luc, and everyone who helped me along the way.
+I defended my Ph.D.! :smile: Thank you Luc, and everyone who helped me along the way.
