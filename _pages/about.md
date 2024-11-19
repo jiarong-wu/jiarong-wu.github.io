@@ -10,7 +10,7 @@ profile:
   image: JiarongWu2.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>1105A Warren Weaver Hall</p>
+    <p>1123 Warren Weaver Hall</p>
     <p>New York, NY 10012</p>
     <a href='mailto:jiarong.wu@nyu.edu'>jiarong.wu@nyu.edu</a>
 
