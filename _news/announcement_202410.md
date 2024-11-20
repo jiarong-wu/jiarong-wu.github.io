@@ -6,4 +6,4 @@ related_posts: _posts/2023-10-01-kauai.md
 ---
 
 I went to Hawaii for the 13th [Physical Oceanography Dissertation Symposium](http://www.pods-symposium.org/). It was a lot of fun to meet people at a similar career stage and talk about science, but also about everything else. 
-The island of Kauai is stunning beautiful! 
+The island of Kauai is stunning beautiful!
